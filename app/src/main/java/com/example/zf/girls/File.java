@@ -180,11 +180,11 @@ public class File extends AppCompatActivity {
                     try {
                          b = Integer.valueOf(returnData).intValue();
                         if(b == 0) {
-                            imageView1.setImageResource(R.drawable.dong2);
+                            imageView1.setImageResource(R.drawable.dong3);
                             textView.setText("轩辕铁牛");
                         }
                         if(b == 1) {
-                            imageView1.setImageResource(R.drawable.dong3);
+                            imageView1.setImageResource(R.drawable.dong2);
                             textView.setText("上官翠花");
                         }
                         if(b == 2) {
