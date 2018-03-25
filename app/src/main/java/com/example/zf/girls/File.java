@@ -184,7 +184,7 @@ public class File extends AppCompatActivity {
                             textView.setText("轩辕铁牛");
                         }
                         if(b == 1) {
-                            imageView1.setImageResource(R.drawable.dong2);
+                            imageView1.setImageResource(R.drawable.dong2 );
                             textView.setText("上官翠花");
                         }
                         if(b == 2) {
@@ -197,7 +197,7 @@ public class File extends AppCompatActivity {
                         }
                         if(b == 4) {
                             imageView1.setImageResource(R.drawable.dong1);
-                            textView.setText("李泽言");
+                            textView.setText("许墨");
                         }
                     } catch (NumberFormatException e) {
                         e.printStackTrace();
