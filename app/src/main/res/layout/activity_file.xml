@@ -98,4 +98,11 @@
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:background="@drawable/return1" />
+
+    <Button
+        android:id="@+id/newtest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="new this"
+        />
 </RelativeLayout>
